@@ -5,20 +5,16 @@
 ежемесячных наблюдений 2020 - 2024.
 
 ## Структура
-├── analysis
 
 ├── model_C5_synth.ipynb # Python-версия
 
 
 └── model_C5_synth.R # R-версия
 
-├── data
-│
+
 
 └── factors.csv # генерируется скриптами
 
-├── plots
-│ 
 
 └── btc_synth_fit.png # сохраняется скриптами
 
