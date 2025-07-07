@@ -7,8 +7,8 @@
 ## Структура
 ├── analysis
 
-│ ├── model_C5_synth.ipynb # Python-версия
-│ 
+├── model_C5_synth.ipynb # Python-версия
+
 
 └── model_C5_synth.R # R-версия
 
